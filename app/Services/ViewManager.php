@@ -3,13 +3,13 @@
  * Created by PhpStorm.
  * User: emilianozublena
  * Date: 6/10/16
- * Time: 8:08 PM
+ * Time: 8:19 PM
  */
 
 namespace App;
 
 
-class Transactions
+class ViewManager implements ServiceInterface
 {
 
 }
